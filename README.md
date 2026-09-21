@@ -31,4 +31,4 @@ Develop SQL-based analytics to deliver detailed insights into:
   This project is licensed under the [MIT License]. You are free to use, modify, and share this project with proper attribution.
 
 ## About me
-Hi there! I am Sakshi Gulati, Senior consultant with over 6 years of experience in business analysis, specializing in requirement gathering, stakeholder management, and process optimization. Proven ability to leverage SQL, Power BI, and agentic AI tools to drive scalable product improvements and data-driven decision-making. Skilled in managing cross-functional teams and translating complex business needs into clear user stories, enhancing project delivery and operational efficiency.
+Hi there! I am Sakshi, Senior consultant with over 6 years of experience in business analysis, specializing in requirement gathering, stakeholder management, and process optimization. Proven ability to leverage SQL, Power BI, and agentic AI tools to drive scalable product improvements and data-driven decision-making. Skilled in managing cross-functional teams and translating complex business needs into clear user stories, enhancing project delivery and operational efficiency.
